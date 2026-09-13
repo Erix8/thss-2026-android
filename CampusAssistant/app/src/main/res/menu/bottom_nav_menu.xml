@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_service"
+        android:title="迎新服务"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+
+    <item
+        android:id="@+id/nav_report"
+        android:title="我的报到"
+        android:icon="@android:drawable/ic_menu_edit"/>
+</menu>

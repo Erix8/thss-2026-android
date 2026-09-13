@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深棕色主背景 -->
+    <color name="bg_dark_brown">#4A2C1A</color>
+    <!-- 卡片白色（低透明度白色） -->
+    <color name="card_white">#E8F0EBE8</color>
+    <!-- tab 容器底色（高透明度白色） -->
+    <color name="tab_container_bg">#33FFFFFF</color>
+    <!-- 选中 tab 底色（较低透明度白色） -->
+    <color name="tab_selected_bg">#CCFFFFFF</color>
+    <!-- 未选中 tab 文字 -->
+    <color name="tab_unselected_text">#AAFFFFFF</color>
+    <!-- 选中 tab 文字 -->
+    <color name="tab_selected_text">#4A2C1A</color>
+    <!-- 标题文字颜色 -->
+    <color name="title_text">#5C3D22</color>
+    <!-- 图标文字颜色 -->
+    <color name="icon_label_text">#3D2010</color>
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 强调橙红色 -->
+    <color name="accent_red">#FF4500</color>
+</resources>

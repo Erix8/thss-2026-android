@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="迎新服务"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/purple"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- 四个入口 -->
+            <LinearLayout
+                android:id="@+id/item1"
+                style="@style/itemStyle"/>
+            <LinearLayout
+                android:id="@+id/item2"
+                style="@style/itemStyle"/>
+            <LinearLayout
+                android:id="@+id/item3"
+                style="@style/itemStyle"/>
+            <LinearLayout
+                android:id="@+id/item4"
+                style="@style/itemStyle"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

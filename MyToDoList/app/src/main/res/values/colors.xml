@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_purple">#FF4A148C</color>
+    <color name="screen_bg">#FFF8F4FF</color>
+    <color name="list_section_bg">#FFF3EDFF</color>
+    <color name="create_section_bg">#FFEDE4FF</color>
+    <color name="section_border">#FFD9C9F3</color>
+</resources>

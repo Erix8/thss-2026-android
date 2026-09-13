@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleTab</string>
+    <string name="tab_mine">我的</string>
+    <string name="tab_discover">发现</string>
+
+    <!-- Tab1 卡片标题 -->
+    <string name="card_local_life">本地生活</string>
+
+    <!-- Tab1 图标文字 -->
+    <string name="item_mobile_recharge">手机充值</string>
+    <string name="item_utilities">生活缴费</string>
+    <string name="item_gas_station">附近加油</string>
+    <string name="item_hospital">挂号体检</string>
+    <string name="item_local_service">同城服务</string>
+    <string name="item_house_rent">买房租房</string>
+
+    <!-- Tab2 卡片标题 -->
+    <string name="card_smart_travel">智慧出行</string>
+    <string name="card_shopping">购物娱乐</string>
+
+    <!-- Tab2 图标文字 -->
+    <string name="item_didi">滴滴出行</string>
+    <string name="item_train">火车票</string>
+    <string name="item_flight">机票</string>
+    <string name="item_hotel">酒店</string>
+    <string name="item_meituan">美团外卖</string>
+    <string name="item_huawei_shop">华为商城</string>
+    <string name="item_movie">电影票</string>
+</resources>

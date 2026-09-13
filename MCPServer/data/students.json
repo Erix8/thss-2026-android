@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Alice",
+        "student_id": "1001",
+        "usual_score": 85,
+        "final_score": 90
+    },
+    {
+        "name": "Bob",
+        "student_id": "1002",
+        "usual_score": 70,
+        "final_score": 60
+    },
+    {
+        "name": "Charlie",
+        "student_id": "1003",
+        "usual_score": 50,
+        "final_score": 40
+    },
+    {
+        "name": "David",
+        "student_id": "1004",
+        "usual_score": 95,
+        "final_score": 98
+    }
+]

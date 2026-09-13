@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ForumActivity</string>
+
+    <!-- Strings of MainActivity -->
+    <string name="activity_list_title">Web Learning</string>
+    <string name="heading1">Machine Learning</string>
+    <string name="content1">Machine learning is the science of getting computers to act effectively without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, speech recognition, machine translation, face recognition, web search, recommender system, and in-depth understanding of the human genome. Machine learning is widely believed to be the best approach to advancing human-level AI. \nThis course will provide a systematic introduction to machine learning, spanning fundamental principles, classical models, efficient algorithms, and practical applications. \nThe course will dive into mathematics derivations and programming practices to help students learn how to apply learning algorithms to real problems in big data and artificial intelligence.</string>
+    <string name="heading2">American Society and Culture</string>
+    <string name="content2">This course provides an overview of American history and culture, beginning prior to the colonial period. \nA typical week will consist of a lecture and in-class discussions, with a video response assignment for homework. \nWe will also take a written, in-class midterm examination, and discuss other cultural topics of interest. \nThe course final project will be to prepare an individual presentation on a relevant historical topic or figure.</string>
+
+    <!-- Strings of DetailActivity -->
+    <string name="detail_title_hint">Heading</string>
+    <string name="detail_content_hint">Details of this activity.\n1\n2\n3\n4\n</string>
+    <string name="btn_back_text">Return</string>
+</resources>

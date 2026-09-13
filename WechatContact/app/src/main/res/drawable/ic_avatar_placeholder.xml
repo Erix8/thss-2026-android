@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Use a bitmap image as the avatar placeholder.
+     Place your JPG at: app/src/main/res/drawable-nodpi/ic_avatar_placeholder_image.jpg
+     and the resource will be referenced below as @drawable/ic_avatar_placeholder_image -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/ic_avatar_placeholder_image"
+    android:gravity="center" />
