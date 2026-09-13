@@ -84,7 +84,8 @@ the contact holder is the only one that needs it. 🔔
 
 ## 🚀 Run it
 
-**Android Studio** — open this `WechatContact` folder (the one with `settings.gradle.kts`), let Gradle
+**[Android Studio](https://developer.android.com/studio)** — open this `WechatContact` folder (the one with
+`settings.gradle.kts`), let Gradle
 sync, then Run ▶️.
 
 **Or the command line** (needs a JDK + the Android SDK):

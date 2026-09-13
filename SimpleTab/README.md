@@ -88,7 +88,7 @@ pink…), so the project ships **zero** icon assets. 🎨
 
 ## 🚀 Run it
 
-1. Use a recent **Android Studio** — the project rides on **AGP 9.1.0**. 🆕
+1. Use a recent **[Android Studio](https://developer.android.com/studio)** — the project rides on **AGP 9.1.0**. 🆕
 2. Open this `SimpleTab` folder and let Gradle sync (it reads `gradle/libs.versions.toml`). 🔄
 3. Hit **Run** and switch between `我的` and `发现` by tapping. ▶️
 

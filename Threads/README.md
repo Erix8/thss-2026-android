@@ -104,7 +104,8 @@ Read it as: *thread 1 produced item 7, leaving 3 in stock; thread 2 consumed ite
 
 ## 🚀 Run it
 
-1. Open this `Threads` folder in **Android Studio** and let Gradle sync. 📂
+1. Open this `Threads` folder in **[Android Studio](https://developer.android.com/studio)** and let Gradle
+   sync. 📂
 2. Run it, then tap **addProducer** / **addConsumer** a few times to build up the crowd. ▶️
 3. Watch the log — producers stall at 5 stock, consumers stall at 0, and everything drains cleanly at 20. 📈
 

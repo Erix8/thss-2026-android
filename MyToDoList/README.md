@@ -93,7 +93,7 @@ The content is clipped **only in the list**; the model still holds the full stri
 
 ## 🚀 Run it
 
-1. Open this `MyToDoList` folder in **Android Studio**. 📂
+1. Open this `MyToDoList` folder in **[Android Studio](https://developer.android.com/studio)**. 📂
 2. Sync Gradle (first run needs the network, for Gson). 🌐
 3. Run it, add a task, and grant the notification prompt when it appears. ▶️
 4. Kill the app and reopen it — your list is still there. 💪

@@ -27,8 +27,26 @@ Every app folder here is a standard Gradle project built the same way:
 | Build scripts | Kotlin DSL (`.kts`) + `gradle/libs.versions.toml` 📦 |
 | AGP | 9.1.0 on the newer projects, 8.13.2 on Homework 3 |
 
-To run any of them: open the folder that contains `settings.gradle.kts` in Android Studio, let Gradle sync,
-and hit **Run** ▶️. The wrapper and version catalog are pinned, so there's nothing to configure by hand.
+To run any of them: open the folder that contains `settings.gradle.kts` in **[Android Studio](https://developer.android.com/studio)**,
+let Gradle sync, and hit **Run** ▶️. The wrapper and version catalog are pinned, so there's nothing to
+configure by hand.
+
+## 🛠️ What I build it with
+
+All the Android work here happens in **[Android Studio](https://developer.android.com/studio)** — Google's
+official IDE, and the one every assignment was developed and tested in. The convenient part is that it
+bundles the JDK, the SDK manager, and the emulator, so the entire toolchain arrives in a single install. 🤖
+
+| Tool | Role |
+|------|------|
+| [**Android Studio**](https://developer.android.com/studio) | The IDE for all six app folders — write, sync, run, debug 🐘 |
+| JDK 11 | Ships with Android Studio; the language level every project targets ☕ |
+| Android SDK 36 | Installed from the SDK Manager inside the IDE 📦 |
+| Python 3 | Only needed for [Prompting](./Prompting/README.md) and [MCP Server](./MCPServer/README.md) 🐍 |
+
+> 💡 Grab it from **<https://developer.android.com/studio>** — the page auto-detects your OS and offers the
+> right build. Newer versions are fine; only [SimpleTab](./SimpleTab/README.md) really wants a recent one,
+> because it rides on AGP 9.1.0.
 
 ## 🐍 The two that aren't Android
 

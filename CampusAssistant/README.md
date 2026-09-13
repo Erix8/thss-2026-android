@@ -61,7 +61,8 @@ carries the interesting part:
 
 ## 🚀 Run it
 
-1. Open this `CampusAssistant` folder in **Android Studio** (the one holding `settings.gradle.kts`). 📂
+1. Open this `CampusAssistant` folder in **[Android Studio](https://developer.android.com/studio)** (the one
+   holding `settings.gradle.kts`). 📂
 2. Let Gradle sync — the wrapper and catalog are pinned, so nothing to configure. 🔄
 3. Run on an emulator or device; the app opens on **迎新服务**. ▶️
 

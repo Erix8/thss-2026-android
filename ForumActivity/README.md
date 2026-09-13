@@ -82,7 +82,8 @@ Swapping the demo content is a one-file edit — no Java touched. ✏️
 
 ## 🛩️ Lift-off
 
-1. Install **Android Studio**, and make sure the **API 36** SDK is installed. 🤖
+1. Install **[Android Studio](https://developer.android.com/studio)**, and make sure the **API 36** SDK is
+   installed. 🤖
 2. **File → Open** and pick this `ForumActivity` folder (the one with `settings.gradle.kts`).
 3. Let **Gradle sync** run — first time needs a network connection. 🔄
 4. Start an emulator (or plug in a device) and hit **Run** ▶️.

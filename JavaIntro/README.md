@@ -56,6 +56,10 @@ load side has to survive missing files, empty files, wrong field counts, and non
 > ⚠️ `students.txt` is written to the **current working directory**, so run `java Main` from inside this
 > folder or the file will land somewhere unexpected. 📂
 
+> 💡 This one is deliberately terminal-only — no build tool required. If you'd rather edit it in an IDE, the
+> **[Android Studio](https://developer.android.com/studio)** I use for the other homeworks is IntelliJ-based
+> and opens a plain Java folder fine; so does any IntelliJ/IDEA-family editor. ☕
+
 ## 👀 What it looks like
 
 Running the file I/O demo (`java Main`) prints roughly:
